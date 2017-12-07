@@ -45,7 +45,7 @@ git push origin <DEINNAME-branch>
 
 Bitte beachten!
 
-| Datum      | Beschreibung             |
-| ---------- | ------------------------ |
-| 05.01.2017 | Redaktionsschluss Inhalt |
-| 12.01.2017 | Prüfungs                 |
+| Datum      | Beschreibung         |
+| ---------- | -------------------- |
+| 05.01.2017 | Inhalte abschließen! |
+| 12.01.2017 | PRÜFUNG              |
