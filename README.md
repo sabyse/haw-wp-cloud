@@ -11,6 +11,20 @@ Der Vortrag ist gegliedert in folgende Hauptpunkte und stellt dabei Monolithen u
 -   **Deployment** [Zuständig: EINTRAGEN]
 -   **Scaling** [Zuständig: EINTRAGEN]
 
+Weitere Unterteilungsmöglichkeiten:
+
+* Deployability
+* Reliability
+* Availability
+* Scalability
+* Modifiability
+* Management
+* Design Autonomy
+* Performance
+* Testability
+* Memory Use
+* Runtime Autonomy
+
 ## Präsentation bearbeiten
 
 ### Step 1: Projekt clonen
