@@ -6,24 +6,19 @@ Hier zu finden ist die Abschlusspräsentation für das Wahlpflichtmodul "Softwar
 
 Der Vortrag ist gegliedert in folgende Hauptpunkte und stellt dabei Monolithen und Microservices gegenüber. Gleichzeitig wird Bezug auf unser Projekt genommen.
 
--   **Development** [Zuständig: EINTRAGEN]
--   **Testing** [Zuständig: EINTRAGEN]
--   **Deployment** [Zuständig: EINTRAGEN]
--   **Scaling** [Zuständig: EINTRAGEN]
+Unterteilungen:
 
-Weitere Unterteilungsmöglichkeiten:
-
-* Deployability
-* Reliability
-* Availability
-* Scalability
-* Modifiability
-* Management
-* Design Autonomy
-* Performance
-* Testability
-* Memory Use
-* Runtime Autonomy
+* Deployability (Talal)
+* Reliability  (Talal)
+* Availability (Chris)
+* Scalability (Chris)
+* Modifiability (Sabrina)
+* Management (Chris)
+* Design Autonomy (Talal)
+* Performance (Sabrina)
+* Testability (Chris)
+* Memory Use (Sabrina)
+* Runtime Autonomy (Talal)
 
 ## Präsentation bearbeiten
 
