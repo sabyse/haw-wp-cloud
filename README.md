@@ -8,6 +8,54 @@ Der Vortrag ist gegliedert in folgende Hauptpunkte und stellt dabei Monolithen u
 
 Unterteilungen:
 
+* Projektvortrag
+  - Das Problem / Motivation
+  - Fachliche Beschreibung der Lösung
+    - Was macht das System?
+    - Wo läuft das System?
+    - Was ist der Mehrwert für den Benutzer?
+  - Business Model
+    - Markt / Konkurrenz
+    - Kosten / Einnamen / SLAs
+  - Technische Lösung (Grafik System Context)
+    - Architektur
+    - Technologien
+    - Cloud Patterns
+  - Das Team
+    - Know - How
+    - Entwicklungsprozess - Zusammenarbeit
+  - Projekt Plan
+    - Geplant / Tatsächlich
+    - Risiken / Probleme
+    - Erfolge
+  - Ausblick
+
+* Microservices vs Monolithen
+  - Development
+    - Was gibt es für Architekturunterschiede?
+    - Welche Schnittstellen gibt es? (REST?)
+    - Gibt es Design Patterns?
+    - Wie unterscheidet sich der Entwicklungsprozess (Agile, kleine Teams, ...)
+    - Ergeben sich neue Vorteile / Nachteile hinsichtlich Modifizierbarkeit (Jeder Service eine Sprache?)?
+    - Gibt es Vor und Nachteile hinsichtlich Kopplung, Kohäsion?
+    - Wie Ändern sich Zuständigkeiten der Programmlogik?
+  - Testing
+    - Was wird getestet bei Microservices / Monolithen?
+    - Müssen neue Dinge getestet werden (REST)?
+    - Welche Schwierigkeiten gibt es bei Microservices / Monolithen?
+    - Gibt es veränderte Testingstrategien?
+  - Deployment
+    - Wie wird Monolith / Microservice deployed?
+    - Gibt es neue Deployment-Strategien (Stichwort: Continuous Deployment / Development / Integration)?
+    - Welche Technologien unterstützen Deployment (Docker, Kubernetes, Serverless Computing in Cloud)?
+  - Scaling
+    - Wie können Monolithen / Microservices skaliert werden?
+    - Cloud Native, ... ?
+    - Gibt es Performance unterschiede zwischen Monolithen / Microservices?
+    - Wie lässt sich Verfügbarkeit und Zuverlässigkeit der Anwendung sicherstellen?
+
+Alte Gliederung:
+
 * Deployability (Talal)
 * Reliability  (Talal)
 * Availability (Chris)
